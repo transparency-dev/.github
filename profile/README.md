@@ -55,5 +55,8 @@ For more details, check out the links or join us on [Slack](https://join.slack.c
 - Productionize the Witness Network
 - Transparency.dev Summit 2025
 
+----
+Transparency.dev projects and community adopt this [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 
 
