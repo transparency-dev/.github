@@ -10,3 +10,11 @@ This repository hosts critical projects for building end-to-end transparency eco
 - [witness](https://github.com/transparency-dev/witness) - Libraries and binaries for running witnesses for verifiable logs
 - [armored-witness](https://github.com/transparency-dev/armored-witness) - A plug and play witness solution intended to kick-start a cross-ecosystem witness network
 
+## ⚒️ Related Projects
+
+Explore a variety of related transparency projects through the following links:
+
+- [trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
+- [C2SP](https://github.com/C2SP/C2SP) - Community Cryptography Specification Project, home to transparency log specifications
+- [sunlight](https://github.com/FiloSottile/sunlight) - A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.
+
