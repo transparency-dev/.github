@@ -18,6 +18,28 @@ Explore a variety of related transparency projects through the following links:
 - [C2SP](https://github.com/C2SP/C2SP) - Community Cryptography Specification Project, home to transparency log specifications
 - [sunlight](https://github.com/FiloSottile/sunlight) - A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.
 
+## 🌳 Roadmap
+
+Here's a glimpse of some of the things we're working on during the upcoming months, along with highlights of recently completed initiatives.
+For more details, check out the links or join us on [Slack](https://join.slack.com/t/transparency-dev/shared_invite/zt-27pkqo21d-okUFhur7YZ0rFoJVIOPznQ) to discuss. 
+
+### ✅ Recently Completed
+
+- [Trillian 1.7.0](https://github.com/google/trillian/releases/tag/v1.7.0) with PostgreSQL support
+
+### ⚙️ Now (well defined with committed development resources)
+- [Trillian Tessera Alpha](https://github.com/transparency-dev/trillian-tessera/issues/1) release
+
+### 🏗️ Next (design stage with some assumptions to validate before proceeding)
+- [Static CT API Tessera personality](https://github.com/transparency-dev/static-ct/issues/10)
+- Bastion support in Tessera
+- Migration resources for Tiled logs
+
+### 💡 Later (aspirational items, not yet scoped)
+- Productionize the Witness Network
+- Transparency.dev Summit 2025
+
+  
 ## 💗 Transparency.dev Community
 
 Whether you are a seasoned developer or just getting started, there’s a place for you in the community. We welcome contributors and are thrilled to have you join our community as we build modern transparency ecosystems for building trust in every domain. Get involved here:
@@ -33,27 +55,6 @@ There are several ways you can contribute to our open source projects:
 - [Join our Slack](https://join.slack.com/t/transparency-dev/shared_invite/zt-27pkqo21d-okUFhur7YZ0rFoJVIOPznQ) to ask questions, give feedback, and seek guidance from our community.
 - [Follow our blog](https://blog.transparency.dev/) to stay upto date with the latest articles from the community
 - [Subscribe to our Youtube Channel](https://www.youtube.com/channel/UC_CUBXljwl-7tmYeOs-7ukQ) and watch community talks from our [Transparency.dev Summit 2024](https://transparency.dev/summit2024/)
-
-## 🌳 Roadmap
-
-Here's a glimpse of some of the things we're working on during the upcoming months, along with highlights of recently completed initiatives.
-For more details, check out the links or join us on [Slack](https://join.slack.com/t/transparency-dev/shared_invite/zt-27pkqo21d-okUFhur7YZ0rFoJVIOPznQ) to discuss. 
-
-### ✅ Recently Completed
-
-- [Trillian 1.7.0](https://github.com/google/trillian/releases/tag/v1.7.0) with PostgreSQL support
-
-### ⚙️ Now (well defined with committed development resources)
-- [Trillian Tessera Alpha](https://github.com/transparency-dev/trillian-tessera/issues/1) release
-- AWS support for Tessera
-
-### 🏗️ Next (design stage with some assumptions to validate before proceeding)
-- Bastion support in Tessera
-- Migration resources for Tiled logs
-
-### 💡 Later (aspirational items, not yet scoped)
-- Productionize the Witness Network
-- Transparency.dev Summit 2025
 
 ----
 Transparency.dev projects and community adopt this [Code of Conduct](../CODE_OF_CONDUCT.md).
