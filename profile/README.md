@@ -1,11 +1,9 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../artwork/transparency-dev-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="../artwork/transparency-dev-light.png">
-    <img alt="Transparency.dev" src="../artwork/transparency-dev-light.png">
-  </picture>
-  <br/>
-</p>
+<picture style="display: block; max-width: 100%">
+  <source media="(prefers-color-scheme: dark)" srcset="../artwork/transparency-dev-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="../artwork/transparency-dev-light.png">
+  <img alt="Transparency.dev logo" src="../artwork/transparency-dev-light.png">
+</picture>
+<br/>
 
 Welcome to transparency.dev, a community dedicated to promoting transparency technologies across various ecosystems and pioneering its integration into new application domains.
 
