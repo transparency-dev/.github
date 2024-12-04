@@ -1,3 +1,12 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../artwork/transparency-dev-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/transparency-dev-light.png">
+    <img alt="Transparency.dev" src="../assets/transparency-dev-light.png">
+  </picture>
+  <br/>
+</p>
+
 Welcome to transparency.dev, a community dedicated to promoting transparency technologies across various ecosystems and pioneering its integration into new application domains.
 
 Tamper-evident logs are the heart of transparency technology and are relied on by [Certificate Transparency](https://certificate.transparency.dev/), [Sigstore (Supply Chain Security)](https://www.sigstore.dev/), and many other ecosystems. Visit [transparency.dev](https://transparency.dev/) to learn more!
