@@ -32,13 +32,14 @@ For more details, check out the links or join us on [Slack](https://join.slack.c
 
 ### ✅ Recently Completed
 
+- [Transparency.dev Summit 2024](https://transparency.dev/summit2024/)
 - [Trillian 1.7.0](https://github.com/google/trillian/releases/tag/v1.7.0) with PostgreSQL support
 
 ### ⚙️ Now (well defined with committed development resources)
 - [Trillian Tessera Alpha](https://github.com/transparency-dev/trillian-tessera/issues/1) release
 
 ### 🏗️ Next (design stage with some assumptions to validate before proceeding)
-- [Static CT API Tessera personality](https://github.com/transparency-dev/static-ct/issues/10)
+- [Static CT API Tessera personality](https://github.com/transparency-dev/static-ct)
 - Bastion support in Tessera
 - Migration resources for Tiled logs
 
@@ -56,7 +57,7 @@ Whether you are a seasoned developer or just getting started, there’s a place 
 There are several ways you can contribute to our open source projects:
 - Submit issues related to bugs or new feature requests
 - Submit pull requests by following guidance in each project's [Contributing Guidelines](https://github.com/transparency-dev/trillian-tessera/blob/main/CONTRIBUTING.md)
-- Or simply ⭐️ the repository to show your appreciation
+- Or simply ⭐️ our repositories to show your appreciation
 
 ### 💞 Community Links 
 - [Join our Slack](https://join.slack.com/t/transparency-dev/shared_invite/zt-27pkqo21d-okUFhur7YZ0rFoJVIOPznQ) to ask questions, give feedback, and seek guidance from our community.
