@@ -22,7 +22,7 @@ This repository hosts critical projects for building end-to-end transparency eco
 Explore a variety of related transparency projects through the following links:
 
 - [trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
-- [C2SP](https://github.com/C2SP/C2SP) - Community Cryptography Specification Project, home to transparency log specifications
+- [C2SP](https://github.com/C2SP/C2SP) - Community Cryptography Specification Project, home to transparency log specifications.
 - [sunlight](https://github.com/FiloSottile/sunlight) - A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.
 
 ## 🌳 Roadmap
@@ -61,8 +61,8 @@ There are several ways you can contribute to our open source projects:
 
 ### 💞 Community Links 
 - [Join our Slack](https://join.slack.com/t/transparency-dev/shared_invite/zt-27pkqo21d-okUFhur7YZ0rFoJVIOPznQ) to ask questions, give feedback, and seek guidance from our community.
-- [Follow our blog](https://blog.transparency.dev/) to stay upto date with the latest articles from the community
-- [Subscribe to our Youtube Channel](https://www.youtube.com/channel/UC_CUBXljwl-7tmYeOs-7ukQ) and watch community talks from our [Transparency.dev Summit 2024](https://transparency.dev/summit2024/)
+- [Follow our blog](https://blog.transparency.dev/) to stay up to date with the latest articles from the community
+- [Subscribe to our YouTube Channel](https://www.youtube.com/channel/UC_CUBXljwl-7tmYeOs-7ukQ) and watch community talks from the [Transparency.dev Summit 2024](https://transparency.dev/summit2024/)
 
 ----
 Transparency.dev projects and community adopt this [Code of Conduct](../CODE_OF_CONDUCT.md).
