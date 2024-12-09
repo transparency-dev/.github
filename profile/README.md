@@ -36,12 +36,12 @@ For more details, check out the links or join us on [Slack](https://join.slack.c
 - [Transparency.dev Summit 2024](https://transparency.dev/summit2024/)
 - [Trillian 1.7.0](https://github.com/google/trillian/releases/tag/v1.7.0) with PostgreSQL support
 - [certificate-transparency-go 1.3.0](https://github.com/google/certificate-transparency-go/releases/tag/v1.3.0) with PostgreSQL support
-
-### ⚙️ Now (well defined with committed development resources)
 - [Trillian Tessera Alpha](https://github.com/transparency-dev/trillian-tessera/issues/1) release
 
-### 🏗️ Next (design stage with some assumptions to validate before proceeding)
+### ⚙️ Now (well defined with committed development resources)
 - [Static CT API Tessera personality](https://github.com/transparency-dev/static-ct)
+
+### 🏗️ Next (design stage with some assumptions to validate before proceeding)
 - Synchronous witnessing support
 - Migration resources for Tiled logs
 
