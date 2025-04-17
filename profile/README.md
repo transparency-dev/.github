@@ -42,8 +42,8 @@ For more details, check out the links or join us on [Slack](https://join.slack.c
 - [Static CT API Tessera personality](https://github.com/transparency-dev/static-ct)
 
 ### 🏗️ Next (design stage with some assumptions to validate before proceeding)
-- Synchronous witnessing support
-- Migration resources for Tiled logs
+- Synchronous witnessing support ([Tessera Roadmap](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap))
+- Migration resources for Tiled logs ([Tessera Roadmap](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap))
 
 ### 💡 Later (aspirational items, not yet scoped)
 - Productionize the Witness Network
