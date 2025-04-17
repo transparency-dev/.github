@@ -40,15 +40,15 @@ For more details, check out the links or join us on [Slack](https://join.slack.c
 
 ### ⚙️ Now (well defined with committed development resources)
 - [Static CT API Tessera personality](https://github.com/transparency-dev/static-ct)
+- [Tessera Beta:](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap) synchronous witnessing support, otel support & more
 
 ### 🏗️ Next (design stage with some assumptions to validate before proceeding)
-- Synchronous witnessing support ([Tessera Roadmap](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap))
-- Migration resources for Tiled logs ([Tessera Roadmap](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap))
+- [Tessera Production Ready:](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap) data migration between releases and between drivers 
+- [Transparency.dev Summit 2025](https://transparency.dev/summit2025/)
 
 ### 💡 Later (aspirational items, not yet scoped)
 - Productionize the Witness Network
-- Transparency.dev Summit 2025
-
+- [Verifiable Index](https://github.com/google/trillian-examples/blob/master/experimental/vindex/README.md)
   
 ## 💗 Transparency.dev Community
 
