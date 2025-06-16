@@ -12,8 +12,8 @@ Tamper-evident logs are the heart of transparency technology and are relied on b
 ## 🔨 Transparency.dev Projects
 
 This repository hosts critical projects for building end-to-end transparency ecosystems, including:
-- [trillian-tessera](https://github.com/transparency-dev/trillian-tessera) - a Go library for building tile-based transparency logs
-- [static-ct](https://github.com/transparency-dev/static-ct) - An implementation of the Static CT API based on Tessera
+- [tessera](https://github.com/transparency-dev/tessera) - a Go library for building tile-based transparency logs
+- [tesseract](https://github.com/transparency-dev/tesseract) - An implementation of the Static CT API based on Tessera
 - [witness](https://github.com/transparency-dev/witness) - Libraries and binaries for running witnesses for verifiable logs
 - [armored-witness](https://github.com/transparency-dev/armored-witness) - A plug and play witness solution intended to kick-start a cross-ecosystem witness network
 
