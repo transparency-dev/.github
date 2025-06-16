@@ -37,19 +37,20 @@ For more details, check out the links or join us on [Slack](https://join.slack.c
 - [Trillian 1.7.0](https://github.com/google/trillian/releases/tag/v1.7.0) with PostgreSQL support
 - [certificate-transparency-go 1.3.0](https://github.com/google/certificate-transparency-go/releases/tag/v1.3.0) with PostgreSQL support
 - [Trillian Tessera Alpha](https://github.com/transparency-dev/trillian-tessera/issues/1) release
+- [Trillian Tessera Beta](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap) with synchronous witnessing support, otel support & more
 
 ### ⚙️ Now (well defined with committed development resources)
-- [Static CT API Tessera personality](https://github.com/transparency-dev/static-ct)
+- [TesseraCT](https://github.com/transparency-dev/tesseract) - a [Static CT API](https://github.com/C2SP/C2SP/blob/main/static-ct-api.md) Tessera personality
 
 ### 🏗️ Next (design stage with some assumptions to validate before proceeding)
-- Synchronous witnessing support ([Tessera Roadmap](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap))
-- Migration resources for Tiled logs ([Tessera Roadmap](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap))
+- [Tessera Production Ready](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap)
+- [Transparency.dev Summit 2025](https://transparency.dev/summit2025)
+
 
 ### 💡 Later (aspirational items, not yet scoped)
 - Productionize the Witness Network
-- Transparency.dev Summit 2025
+- [Verifiable Index](https://github.com/google/trillian-examples/blob/master/experimental/vindex/README.md)
 
-  
 ## 💗 Transparency.dev Community
 
 Whether you are a seasoned developer or just getting started, there’s a place for you in the community. We welcome contributors and are thrilled to have you join our community as we build modern transparency ecosystems for building trust in every domain. Get involved here:
