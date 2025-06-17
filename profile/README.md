@@ -63,7 +63,7 @@ There are several ways you can contribute to our open source projects:
 - Or simply ⭐️ our repositories to show your appreciation
 
 ### 💞 Community Links 
-- [Join our Slack](https://join.slack.com/t/transparency-dev/shared_invite/zt-27pkqo21d-okUFhur7YZ0rFoJVIOPznQ) to ask questions, give feedback, and seek guidance from our community.
+- [Join our Slack](https://join.slack.com/t/transparency-dev/shared_invite/zt-2jt6643n4-I5wLUo90_tvTVd4nfmfDug) to ask questions, give feedback, and seek guidance from our community.
 - [Follow our blog](https://blog.transparency.dev/) to stay up to date with the latest articles from the community
 - [Subscribe to our YouTube Channel](https://www.youtube.com/channel/UC_CUBXljwl-7tmYeOs-7ukQ) and watch community talks from the [Transparency.dev Summit 2024](https://transparency.dev/summit2024/)
 
