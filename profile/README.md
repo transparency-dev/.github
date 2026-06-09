@@ -49,10 +49,6 @@ For more details, check out the links or join us on [Slack](https://transparency
 ### 💡 Later (aspirational items, not yet scoped)
 - Productionize the Witness Network
 
-## 🔢 Versioning Strategy
-
-In all of our libraries, we aim to support the last two minor versions of Go (consistent with the Go team's strategy). We will keep the minimum Go version as low as possible (generally 1.x.0) in order to not force upgrades on downstream dependencies.
-
 ## 💗 Transparency.dev Community
 
 Whether you are a seasoned developer or just getting started, there’s a place for you in the community. We welcome contributors and are thrilled to have you join our community as we build modern transparency ecosystems for building trust in every domain. Get involved here:
