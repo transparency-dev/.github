@@ -33,23 +33,22 @@ For more details, check out the links or join us on [Slack](https://transparency
 
 ### ✅ Recently Completed
 
-- [Transparency.dev Summit 2024](https://transparency.dev/summit2024/)
-- [Trillian 1.7.0](https://github.com/google/trillian/releases/tag/v1.7.0) with PostgreSQL support
-- [certificate-transparency-go 1.3.0](https://github.com/google/certificate-transparency-go/releases/tag/v1.3.0) with PostgreSQL support
-- [Trillian Tessera Alpha](https://github.com/transparency-dev/trillian-tessera/issues/1) release
-- [Trillian Tessera Beta](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap) with synchronous witnessing support, otel support & more
+- [Transparency.dev Summit 2025](https://transparency.dev/summit2025/)
+- [Tessera v1.0.2](https://github.com/transparency-dev/tessera/releases/tag/v1.0.2) release
+- [TesseraCT v0.1.1](https://github.com/transparency-dev/tesseract/releases/tag/v0.1.1) with synchronous witnessing support, otel support & more
+- [Trillian 1.7.3](https://github.com/google/trillian/releases/tag/v1.7.3) with PostgreSQL support
+- [certificate-transparency-go 1.3.3](https://github.com/google/certificate-transparency-go/releases/tag/v1.3.3) with PostgreSQL support
 
 ### ⚙️ Now (well defined with committed development resources)
-- [TesseraCT](https://github.com/transparency-dev/tesseract) - a [Static CT API](https://github.com/C2SP/C2SP/blob/main/static-ct-api.md) Tessera personality
+- [TesseraCT](https://github.com/transparency-dev/tesseract) - a [Static CT API](https://github.com/C2SP/C2SP/blob/main/static-ct-api.md) Tessera personality - working on GA
+- [Tessera](https://github.com/transparency-dev/tessera) - PQ & MTC support
+- [Transparency.dev Summit 2026](https://transparency.dev/summit2026)
 
 ### 🏗️ Next (design stage with some assumptions to validate before proceeding)
-- [Tessera Production Ready](https://github.com/transparency-dev/trillian-tessera?tab=readme-ov-file#roadmap)
-- [Transparency.dev Summit 2025](https://transparency.dev/summit2025)
-
+- [Verifiable Index](https://github.com/transparency-dev/incubator/tree/main/vindex) - MVP, and design for v1
 
 ### 💡 Later (aspirational items, not yet scoped)
 - Productionize the Witness Network
-- [Verifiable Index](https://github.com/google/trillian-examples/blob/master/experimental/vindex/README.md)
 
 ## 💗 Transparency.dev Community
 
