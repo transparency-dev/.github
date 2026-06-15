@@ -41,6 +41,7 @@ For more details, check out the links or join us on [Slack](https://transparency
 
 ### ⚙️ Now (well defined with committed development resources)
 - [TesseraCT](https://github.com/transparency-dev/tesseract) - a [Static CT API](https://github.com/C2SP/C2SP/blob/main/static-ct-api.md) Tessera personality - working on GA
+- [Tessera](https://github.com/transparency-dev/tessera) - PQ & MTC support
 - [Transparency.dev Summit 2026](https://transparency.dev/summit2026)
 
 ### 🏗️ Next (design stage with some assumptions to validate before proceeding)
